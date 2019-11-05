@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Smart Door Unlock</string>
+    <string name="invoke">UNLOCK DOOR</string>
+</resources>

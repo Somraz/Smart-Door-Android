@@ -1,0 +1,7 @@
+#Tue Jul 16 11:46:09 IST 2019
+base.0=D\:\\HCL\\azure-iot-samples-java-master\\azure-iot-samples-java-master\\iot-hub\\Samples\\service\\AndroidSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\1
+path.1=classes.dex
+renamed.1=classes2.dex
+path.0=classes.dex
+renamed.0=classes.dex
+base.1=D\:\\HCL\\azure-iot-samples-java-master\\azure-iot-samples-java-master\\iot-hub\\Samples\\service\\AndroidSample\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
